@@ -5,10 +5,10 @@ namespace App\Services\Code\Interfaces\Exceptions;
 
 /**
  * Base interface for all code service exceptions
- * Interface CantSaveCodeServiceException
+ * Interface CantSaveCodeServiceExceptionInterface
  * @package App\Services\Code\Interfaces\Exceptions
  */
-interface CantSaveCodeServiceException extends CodeServiceExceptionInterface
+interface CantSaveCodeServiceExceptionInterface extends CodeServiceExceptionInterface
 {
 
 }
